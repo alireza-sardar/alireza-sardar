@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alireza-sardar
+- 👋 Hi, I’m Allireza Sardaripour
 
 
-- 📫 How to reach me alirezasardaripour@yahoo.com
+- 📫 How to reach me sardaripour.alireza@gmail.com
 
 <!---
 alireza-sardar/alireza-sardar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
