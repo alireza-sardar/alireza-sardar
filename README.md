@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alireza Sardaripour
--   neuroscience researcher at IPM school of cognitive sciences
+-    linkedin.com/in/alireza-sardaripour-447b721b5
+-   neuroscience researcher
 -   medical student at SBMU
-linkedin.com/in/alireza-sardaripour-447b721b5
+
 
 - 📫 How to reach me sardaripour.alireza@gmail.com
 
