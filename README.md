@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alireza Sardaripour
--    linkedin.com/in/alireza-sardaripour-447b721b5
+-    www.linkedin.com/in/alireza-sardaripour-447b721b5
 -   neuroscience researcher
 -   medical student at SBMU
 
