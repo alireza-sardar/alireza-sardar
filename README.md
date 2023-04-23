@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alireza Sardaripour
 -    www.linkedin.com/in/alireza-sardaripour-447b721b5
 #####   Neuroscience researcher at IPM school of cognitive sciences
--    > * <p>have experience and skill in:
+-    > * ##### have experience and skill in:
 -    ><p>1- conducting Visual Psychophysics experiments and analyzing different kinds of neuro-behavioral data such as eye-signal and behavioral modeling through Bayesian inference.
 -   ><p>2- Analyzing large-scale electrophysiology data (Spike & LFP).
 -   ><p>3- Applying ML algorithm to EEG signal.
