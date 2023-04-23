@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alireza Sardaripour
-- 
+- 👋 Hi, I’m Alireza Sardaripour 
 #####   Neuroscience researcher at IPM school of cognitive sciences
 -    > * #### My research interests and skills are::
   > <p>1. conducting Visual Psychophysics experiments and analyzing different kinds of neuro-behavioral data such as eye-signal and behavioral modeling through Bayesian inference.
