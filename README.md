@@ -6,7 +6,7 @@
  > <p>2. Analyzing large-scale electrophysiology data (Spike & LFP).
  > <p>3. Applying ML algorithm to EEG signal.
         
-#####    medico at Shahid beheshti university of medical sciences (SBMU)
+#####    6th year medical student at Shahid beheshti university of medical sciences (SBMU)
 
 - 📫 How to reach me sardaripour.alireza@gmail.com
 
